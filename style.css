@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    outline: none;
+    height:50px;
+    width: 100%;
+    border: none;
+    margin: 5px;
+    font-size: 16px;
+}
+.op{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    outline: none; 
+    grid-column: span 4;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.calculator{
+    padding: 15px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(4,50px);
+}
+.calc{
+    width: 100px;
+} */
